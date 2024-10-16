@@ -26,12 +26,17 @@
     background-color: #fff;
     color: #262626;
 }
-
+.nav-contact:hover {
+    background-color: #ff6600;
+}
+.nav-contact a:hover {
+    color: white;
+}
 .nav a {
     text-decoration: none;
     color: inherit;
 }
 
 .nav a:hover {
-    color: #262626;
+    color: #242424;
 }
