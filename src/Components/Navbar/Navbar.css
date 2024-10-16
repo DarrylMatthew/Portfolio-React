@@ -26,3 +26,12 @@
     background-color: #fff;
     color: #262626;
 }
+
+.nav a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.nav a:hover {
+    color: #fff;
+}
